@@ -93,5 +93,6 @@ img{
 
 .rodape a{
     color:aqua;
+    display: flex;
     flex-direction: column;
 }
