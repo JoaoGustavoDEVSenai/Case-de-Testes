@@ -88,10 +88,10 @@ img{
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
     margin: 100px;
 }
 
 .rodape a{
     color:aqua;
+    flex-direction: column;
 }
